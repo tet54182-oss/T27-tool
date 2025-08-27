@@ -1,0 +1,17 @@
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\Civil3DCsharp.Corridors.resources
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\Civil3DCsharp.Points.resources
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.TestForm.resources
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.cache
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.AssemblyInfo.cs
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\MyFirstProject.sourcelink.json
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\bin\Debug\onnu5w05.fnj.deps.json
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\bin\Debug\onnu5w05.fnj.dll
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\bin\Debug\onnu5w05.fnj.pdb
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\onnu5w05.fnj.dll
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\refint\onnu5w05.fnj.dll
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\onnu5w05.fnj.pdb
+C:\Users\thang\Dropbox\DATA\AI Agent\Autocad 2026_API\MyFirstProject\obj\Debug\ref\onnu5w05.fnj.dll
